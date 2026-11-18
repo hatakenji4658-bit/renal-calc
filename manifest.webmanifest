@@ -1,0 +1,17 @@
+{
+  "name": "腎機能計算ツール（CCr・eGFR）",
+  "short_name": "腎機能計算",
+  "description": "血清クレアチニン・年齢・性別・体重（身長は任意）からCCrとeGFRを計算します。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f7f9",
+  "theme_color": "#1f5fa8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
